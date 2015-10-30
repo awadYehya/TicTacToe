@@ -1,4 +1,5 @@
 # TicTacToe
+Course Assignment
 Java TicTacToe Game with Artificial Intelligence.
 
 Sample run:
